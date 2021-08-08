@@ -2,7 +2,7 @@
 
 # Overview
 
-Bacteria Diversity data will be analyzed and presented in an interactive dashabord in this full-stack project.
+Belly-button Bacteria Biodiversity data will be analyzed and presented in an interactive dashabord in this full-stack project.
 
 Tools Used:
 - Plotly.js
@@ -14,6 +14,10 @@ Tools Used:
 The dashboard must meet the following criteria set by the client:
 - Be interactive and viewable by webpage
 - The summary should be provided per sample #. Aggregate summaries across samples are not required
+- Visuals Requested: 
+  - Bar chart showing top 10 Bacteria Cultures
+  - Gauge chart showing the frequency of wash
+  - Bubble Chart with interactive markers and radius sizes
 
 ## Deliverables
 https://sthi-1005.github.io/Belly_Bacteria_Diversity/
